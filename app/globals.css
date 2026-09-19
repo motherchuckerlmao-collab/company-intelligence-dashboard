@@ -1,0 +1,2 @@
+@import 'tailwindcss';
+:root{color-scheme:dark}*{box-sizing:border-box}body{margin:0;background:#07090d;color:#f4f4f5;font-family:Arial,Helvetica,sans-serif}button,input{font:inherit}.muted{color:#8d93a1}.card{background:#0d1118;border:1px solid #1d2430;border-radius:16px}.pill{border:1px solid #293241;background:#111722;border-radius:999px;padding:5px 9px;font-size:12px}.grid-auto{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:14px}.mono{font-family:ui-monospace,SFMono-Regular,Menlo,monospace}
